@@ -1,0 +1,15 @@
+Day 11
+
+Today was a very unexpected day, during my Wes Bos course on flexbox, i was confronted with an idea to use gulp as an automation system. I spent a quarter of my day just looking up all the information i can find on gulp to see if it's worth the hassle.
+
+I decided that on the long run it will help to know it, even if i later switch to webpack.
+
+I updated my node.js, npm and installed gulp, which i then used on a project where it wasn't really needed. Turns out that during the time wes bos made the course, flexbox didn't have as much browser support as it does today and the autoprefixer didn't do much except run in the background :/.
+
+Still though I'm glad i got that down for today. After all that it was hard to really focus on coding. I did 3 exercise from the course so I guess that's something but i'll have to get through a lot more tomorrow if i want to start learning javascript at my 2 week mark.
+
+Someone might ask themselves, why are you doing so many courses. Well the simple answer is, I want different views and opinions on all subject and some tutors express that through their teachings. I am also forcing myself to relearn everything everyday so the knowledge really sinks in and the base i build upon is solid.
+
+It's a great feeling watching a course and almost reciting everything a tutor will say or finish the project before they do.
+
+Happy coding
