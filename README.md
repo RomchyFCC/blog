@@ -39,6 +39,8 @@ Responsive tutorial by Net Ninja | YES | https://www.youtube.com/watch?v=3tLb3i7
 Bootstrap 4 tutorial by Net Ninja | YES | https://www.youtube.com/watch?v=QAgrHLtG1Yk&list=PL4cUxeGkcC9jE_cGvLLC60C_PeF_24pvv
 CSS Animation by Net Ninja | YES | https://www.youtube.com/watch?v=jgw82b5Y2MU&list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5
 CSS Tips and Tricks by Net Ninja | YES | https://www.youtube.com/watch?v=B9OZkATMbag&index=1&list=PL4cUxeGkcC9htzG9o-QzCTsGMbmfuF4kk
+Getting Sassy with CSS | NO | http://www.sassshop.com/#/
+Sass tutorial by Net Ninja | YES | https://www.youtube.com/watch?v=St5B7hnMLjg&list=PL4cUxeGkcC9iEwigam3gTjU_7IA3W2WZA
 
 &ast; I would only recommend this to someone who already tried programing and is familiar with syntax and how programs look. First time reading this book I had no idea what was going on, I skipped to CS50 course and went back to the books.
 They made much more sense and it was easier to read through and actually understand the topics.
