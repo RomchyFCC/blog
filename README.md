@@ -12,6 +12,12 @@ where I end up relative to myself in:
 
 ---
 
+## My projects
+
+A todo list website: https://romchyfcc.github.io/Project01/
+
+---
+
 ### Courses/Tutorials Plan
 
 #### Completed
@@ -50,4 +56,3 @@ They made much more sense and it was easier to read through and actually underst
 
 I might add the courses planned but there are so many I rather add one by one, everytime I finish one.
 I will see how much time I have on my hands.
-
