@@ -48,6 +48,7 @@ CSS Tips and Tricks by Net Ninja | YES | https://www.youtube.com/watch?v=B9OZkAT
 Getting Sassy with CSS | NO | http://www.sassshop.com/#/
 Sass tutorial by Net Ninja | YES | https://www.youtube.com/watch?v=St5B7hnMLjg&list=PL4cUxeGkcC9iEwigam3gTjU_7IA3W2WZA
 Practical JavaScript by Gordon Zhu | YES | https://watchandcode.com/p/practical-javascript
+Programming for the web with JS | YES | https://courses.edx.org/courses/course-v1:PennX+SD4x+2T2017/course/
 
 &ast; I would only recommend this to someone who already tried programing and is familiar with syntax and how programs look. First time reading this book I had no idea what was going on, I skipped to CS50 course and went back to the books.
 They made much more sense and it was easier to read through and actually understand the topics.
