@@ -3,7 +3,7 @@
 I'm going for daily updates, I want to track my progress to see, 
 where I end up relative to myself in: 
   
-* 1 month
+* 1 month: 
 	My accomplishments for this month are:
 	- 1 full solo project using vanilla JS
 	- Many courses for HTML, CSS and everything related to JS
