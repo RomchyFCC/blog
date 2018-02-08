@@ -80,6 +80,7 @@ Sass tutorial by Net Ninja | YES | https://www.youtube.com/watch?v=St5B7hnMLjg&l
 Practical JavaScript by Gordon Zhu | YES | https://watchandcode.com/p/practical-javascript
 Programming for the web with JS | YES | https://courses.edx.org/courses/course-v1:PennX+SD4x+2T2017/course/
 CSS Grid by WesBos | YES | https://cssgrid.io/
+JavaScript30 by WesBos | YES | https://javascript30.com/
 
 &ast; I would only recommend this to someone who already tried programing and is familiar with syntax and how programs look. First time reading this book I had no idea what was going on, I skipped to CS50 course and went back to the books.
 They made much more sense and it was easier to read through and actually understand the topics.
