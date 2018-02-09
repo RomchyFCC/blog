@@ -44,7 +44,9 @@ where I end up relative to myself in:
 
 ## My projects
 
-A todo list website: https://romchyfcc.github.io/Project01/
+- A todo list website: https://romchyfcc.github.io/Project01/
+- A template remake: https://romchyfcc.github.io/Project02/
+- freeCodeCamp projects will be hosted on codepen: https://codepen.io/dashboard/ and can be found on github: https://github.com/RomchyFCC/FCC
 
 ---
 
