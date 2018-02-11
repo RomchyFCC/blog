@@ -46,7 +46,10 @@ where I end up relative to myself in:
 
 - A todo list website: https://romchyfcc.github.io/Project01/
 - A template remake: https://romchyfcc.github.io/Project02/
-- freeCodeCamp projects will be hosted on codepen: https://codepen.io/dashboard/ and can be found on github: https://github.com/RomchyFCC/FCC
+- freeCodeCamp projects will be hosted on [codepen](https://codepen.io/dashboard/) and can be found on [github](https://github.com/RomchyFCC/FCC); Projects done:
+* Tribute Page
+* Portfolio Page
+* Random Quote Generator
 
 ---
 
@@ -83,7 +86,7 @@ Practical JavaScript by Gordon Zhu | YES | [link](https://watchandcode.com/p/pra
 Programming for the web with JS | YES | [link](https://courses.edx.org/courses/course-v1:PennX+SD4x+2T2017/course/)
 CSS Grid by WesBos | YES | [link](https://cssgrid.io/)
 JavaScript30 by WesBos | YES | [link](https://javascript30.com/)
-Deploy a website by codecademy | NO | [link](https://www.codecademy.com/learn/deploy-a-website)
+Deploy a website by codecademy | - | [link](https://www.codecademy.com/learn/deploy-a-website)
 JQuery codecademy | - | [link](https://www.codecademy.com/learn/learn-jquery)
 ReactJS Part I | - | [link](https://www.codecademy.com/learn/react-101)
 ReactJS Part II | - | [link](https://www.codecademy.com/learn/react-102)
@@ -93,5 +96,4 @@ They made much more sense and it was easier to read through and actually underst
 
 &ast;&ast; Before doing this course, you should be familiar with some of the HTML and CSS just progress easier and understand better.
 
-I might add the courses planned but there are so many I rather add one by one, everytime I finish one.
-I will see how much time I have on my hands.
+~~I might add the courses planned but there are so many I rather add one by one, everytime I finish one.~~
