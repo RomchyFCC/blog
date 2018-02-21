@@ -46,7 +46,10 @@ where I end up relative to myself in:
 
 - A todo list website: https://romchyfcc.github.io/Project01/
 - A template remake: https://romchyfcc.github.io/Project02/
-- freeCodeCamp projects will be hosted on [codepen](https://codepen.io/Romchy/) and can be found on [github](https://github.com/RomchyFCC/FCC); Projects done:
+- freeCodeCamp projects will be hosted on [codepen](https://codepen.io/Romchy/) and can be found on [github](https://github.com/RomchyFCC/FCC); 
+- Front End Certificate(450h+ of programming): [Front-End Certificate](https://www.freecodecamp.org/romchyfcc/front-end-certification)
+Projects done:
+
 * Tribute Page
 * Portfolio Page
 * Random Quote Generator
@@ -55,6 +58,8 @@ where I end up relative to myself in:
 * Twitch API
 * Calculator
 * Pomodoro Clock
+* TicTacToe
+* Simon's Game
 
 ---
 
