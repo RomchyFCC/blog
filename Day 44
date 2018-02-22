@@ -1,0 +1,13 @@
+Day 44
+
+Still nothing of huge interest...
+
+I completed the rest of FCC Algorithms and started with the books, that's basically it.
+
+I haven't really learned many new things except for the fact that this condition in javascript (3<2<1) === true, because it goes from left to right and checks
+(3<2) which === false and then it checks (false < 1) which is true because false is coerced to 0 and 0 < 1 === true.
+
+Pretty cool! 
+But yea, besides that I am just refreshing some teoretical knowledge!
+
+Happy coding
