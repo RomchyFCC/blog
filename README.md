@@ -100,6 +100,8 @@ Deploy a website by codecademy | - | [link](https://www.codecademy.com/learn/dep
 JQuery codecademy | - | [link](https://www.codecademy.com/learn/learn-jquery)
 ReactJS Part I | - | [link](https://www.codecademy.com/learn/react-101)
 ReactJS Part II | - | [link](https://www.codecademy.com/learn/react-102)
+Learn to prgram in JavaScript | YES | [link](https://www.udemy.com/programming-in-javascript/learn/v4/overview)
+Code your first game | YES | [link](https://www.udemy.com/code-your-first-game)
 
 &ast; I would only recommend this to someone who already tried programing and is familiar with syntax and how programs look. First time reading this book I had no idea what was going on, I skipped to CS50 course and went back to the books.
 They made much more sense and it was easier to read through and actually understand the topics.
