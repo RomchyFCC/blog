@@ -35,6 +35,37 @@ where I end up relative to myself in:
 	- autoprefixing, transpiling
 
 * 2 months
+	My accomplishments for this month are:
+	- FCC Algorithms done
+	- FCC Front End Certificate
+	- SASS improved
+	- JQuery improved
+	- 10+ Projects on and off FCC
+	- Built 2 small projects using react
+	- Created my portfolio page
+
+	What I am now comfortable using:
+	- HTML (with images)
+	- CSS (SASS) (with images)
+	- JavaScript/jQuery
+
+	What I think I know well:
+	- JavaScript (most of ES6 except for generators and promises)
+	- Responsive Design
+
+	What I should improve: 
+	- JS React, Redux
+	- Local Back End development
+	- Real world deployment
+
+	Plans for the upcoming month are: 
+	- REACT, REACT and again REACT also redux 
+	- FCC Data Visualization
+	- Job Search
+	- Wordpress
+	- 5+ Solo projects(With webpack(if needed), prefixing and deploying to a custom domain name)
+	- Automated testing, autoprefixing, transpiling
+	
 * 3 months
 * 4 months
 * 5 months
@@ -62,8 +93,6 @@ Projects done:
 * Simon's Game
 
 ---
-
-### Courses/Tutorials Plan
 
 #### Completed
 
