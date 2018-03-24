@@ -1,0 +1,12 @@
+Day 73
+
+A lot of work on the town of salem up was done.
+I got the first few states and logical connections up, for the classic game. It's gonna be a hard project and there might not be an algorithm that will save me here.
+
+The most complex is the updating of the state when a character is clicked, the reason being that we have to check if that value is in the town, town unique, already used and also if it's in the town random selection.
+That brings a problem, because I have to keep track of multiple things at once and at the end of the day I got lost in the if else statements so I decided to finish it for today and continue
+tomorrow with a fresh mind. Maybe I will come up with a simpler sollution. 
+
+Hopefully.
+
+Anyway, Roman signing off.
