@@ -1,0 +1,12 @@
+Day 108 
+
+Yup, impossible task(refer to previous 2 blog days), I have 3 more courses to go through and I am barely grasping the gist of redux.
+The whole boiler plate seems so exausting to set up, legit 2 courses that I've done so far, used the first 30 mins just setting up the damned thing,
+starting to think redux might be redundant and just start using context.API from react 16.3+.
+
+Other than the failure of getting through all planned courses, wordpress took a backseet and I started working on my first planned app: chess leaderboard.
+Planned functionality involves setting up a new player, select 2 players to battle and declaring a winner, which would set up and modify elo and present leaderboard for all players.
+
+This will be a small at home use application for when my friends and I get together to play chess, a small competition and all.
+
+Good night
