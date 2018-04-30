@@ -1,0 +1,11 @@
+Day 110
+
+Finished my chess leaderboard full stack app. It can create new players and when picked it calculates new elo for the picked players given the outcome of the game.
+It's all connected to a mysql database via php. 
+I'm satisfied with how it works, now I have to improve on the idea in future apps.
+
+Kinda a late nighter, took some time off because my brain wasn't functioning that well as I fell asleep during one of redux lectures.
+
+Hopefully I can get more stuff done tomorrow.
+
+GN!
