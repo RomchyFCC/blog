@@ -1,0 +1,10 @@
+Day 126
+
+Officially writing this from my Mac. Got quite used to it in this 1 day. Personalized it a bit and got git bash pseudo working on it.
+I'm quite happy with this. I always wanted to take this step in my evolution of a developer and now I can. 
+
+Today I also created a PHP program that takes in 2 csv cycles through them and determines the export to a database.
+I calculated that it does over 2 trillion iteerations, yes!!!! over 2 trillion. Why? well we needed a different approach and this one seemed quite intuitive at a second glance.
+To be completely honest it's faster because there are less exports.
+
+Well I'm done for the day. Good night!
