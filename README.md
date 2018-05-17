@@ -95,6 +95,28 @@ where I end up relative to myself in:
 	- Game development(this is a tricky one, bigger update in the next month)
 
 * 4 months
+	My accomplishments for this month are:
+	- I've lost count of projects
+	- PHP, React, redux projects
+
+	What I am now comfortable using:
+	- React
+	- PHP
+
+	What I think I know well:
+	- Nothing new this time, I'm still building my react/redux comfort and my PHP comfort
+
+	What I should improve: 
+	- React, Redux
+	- Back End development
+
+	Plans for the upcoming month are: 
+	- more React and redux
+	- the rest of FCC Data Visualization (D3 charts) this transfers on from last month
+	- Wordpress - maybe
+	- Automated testing this might be switched for PHP courses and machine learning
+	- Game development has been left behind for now
+
 * 5 months
 * 6 months
 
@@ -174,9 +196,3 @@ Beginner's guide to React by Kent C. Dodds | YES | [Link](https://egghead.io./le
 They made much more sense and it was easier to read through and actually understand the topics.
 
 &ast;&ast; Before doing this course, you should be familiar with some of the HTML and CSS just progress easier and understand better.
-
-#### Completed Game development courses
-
-Course | Recommendation | Link
--------|:-------------:|-----
-- | - | -
