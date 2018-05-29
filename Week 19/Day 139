@@ -1,0 +1,10 @@
+Day 139
+
+I keep going with these daily updates, I wonder what it will be like after 1 year of working experience :D
+
+Anyway, today I corrected one of my older projects and created a new full stack app taht takes input from a mysql database, creates a paginated table and on click at each data displays the output
+in raw format and in an html parsed iframe.
+
+It's poorly styled because I'm quite tight on time, but the logic is pretty damn good :)
+
+Good night
