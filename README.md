@@ -118,6 +118,27 @@ where I end up relative to myself in:
 	- Game development has been left behind for now
 
 * 5 months
+	My accomplishments for this month are:
+	- Many projects using wordpress
+	- Many projects using PHP
+
+	What I am now comfortable using:
+	- wordpress
+
+	What I think I know well:
+	- nothing well enough but building up knowledge of MySQL, wordpress and PHP
+
+	What I should improve: 
+	- React, Redux
+	- Back End development
+
+	Plans for the upcoming month are: 
+	- more React
+	- the new FCC projects
+	- Wordpress - maybe
+	- A php course
+	- a deeper dive into amchine learning - maybe
+	
 * 6 months
 
 ---
