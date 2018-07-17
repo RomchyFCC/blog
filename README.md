@@ -140,7 +140,11 @@ where I end up relative to myself in:
 	- a deeper dive into amchine learning - maybe
 	
 * 6 months
-
+	My planned progression has halted. I went full backend in PHP and there is no longer anything that github can offer me.
+	I still store my code, but since it's company code I can't host it publically on github. 
+	I also never seem to be able to quite finish my work and that resulted in halted learning of new things and diminished focus on my own projects.
+	I really hope I get back on track with those aswell as exceed expectations at work.
+	It's a fun journey still though and I have come far working in a team.
 ---
 
 ## My projects
